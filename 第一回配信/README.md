@@ -27,7 +27,7 @@ https://huggingface.co/reazon-research/reazonspeech-k2-v2
 
 ### WindowsPCでの起動コマンド例
 メインスクリプト(音声認識とその他の処理も含む)  
-python main.py
+python voice.py
 
 
 
