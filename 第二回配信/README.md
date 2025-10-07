@@ -16,7 +16,10 @@ https://huggingface.co/dahara1/gemma-3-270m_mitsuki_gguf
 
 ## メインスクリプト
 ### WindowsPCでの起動コマンド例
+```
+pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client keyboard requests
 python mitsuki_with_viewers.py
+```
 
 ## セットアップ概要と使い方
 
